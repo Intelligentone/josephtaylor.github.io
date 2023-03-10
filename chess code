@@ -176,10 +176,14 @@ float:left;
 }
 
 
+
 #footer{
-border:solid 1px
+ background-color: lightyellow; 
+  text-align: center;
+  border:solid 1px
 padding: 10px;
-margin 10px;}
+margin 10px
+} 
 
 
 
